@@ -1,0 +1,89 @@
+Country Name,University Name,Year,Country Population,Country GDP
+USA,Harvard University,2006,327716797,21403756.31
+USA,Harvard University,2007,336063792,21189837.47
+USA,Harvard University,2008,336177479,21626160.15
+USA,Harvard University,2009,336153426,21703315.27
+USA,Harvard University,2010,336739569,21491361.79
+USA,Harvard University,2011,331838815,21116211.08
+USA,Harvard University,2012,330911827,21042400.75
+USA,Harvard University,2013,334168819,21554604.45
+USA,Harvard University,2014,336373220,21022071.82
+USA,Harvard University,2015,332637257,21683628.87
+USA,Harvard University,2016,329838637,21560946.75
+USA,Stanford University,2006,335984658,21739814.0
+USA,Stanford University,2007,327839010,21764185.33
+USA,Stanford University,2008,329780087,21543803.98
+USA,Stanford University,2009,329711049,21043911.09
+USA,Stanford University,2010,335102619,21712332.25
+USA,Stanford University,2011,332876397,21230760.55
+USA,Stanford University,2012,332715923,21263197.5
+USA,Stanford University,2013,335211327,21507309.0
+USA,Stanford University,2014,334325394,22014304.09
+USA,Stanford University,2015,334555397,21065805.19
+USA,Stanford University,2016,336811107,21372504.96
+UK,University of Oxford,2006,68891379,3105896.07
+UK,University of Oxford,2007,68331452,3144211.11
+UK,University of Oxford,2008,69080126,3170776.23
+UK,University of Oxford,2009,67893819,3109182.19
+UK,University of Oxford,2010,67643505,3144546.47
+UK,University of Oxford,2011,69131505,3068489.01
+UK,University of Oxford,2012,68091543,3064582.76
+UK,University of Oxford,2013,69085568,3149935.93
+UK,University of Oxford,2014,67956264,3113716.62
+UK,University of Oxford,2015,67856088,3102333.89
+UK,University of Oxford,2016,67593980,3097318.08
+UK,University of Cambridge,2006,69063404,3070772.08
+UK,University of Cambridge,2007,67185620,3130601.18
+UK,University of Cambridge,2008,67394262,3168778.91
+UK,University of Cambridge,2009,68789163,3095929.24
+UK,University of Cambridge,2010,68553545,3094196.37
+UK,University of Cambridge,2011,68122798,3084068.94
+UK,University of Cambridge,2012,68951419,3213045.31
+UK,University of Cambridge,2013,68939156,3137661.05
+UK,University of Cambridge,2014,68935267,3099590.92
+UK,University of Cambridge,2015,68997991,3080846.72
+UK,University of Cambridge,2016,67985376,3108443.48
+Canada,University of Toronto,2006,38434092,1624548.04
+Canada,University of Toronto,2007,38746024,1678355.81
+Canada,University of Toronto,2008,38129576,1676737.41
+Canada,University of Toronto,2009,38584397,1659720.9
+Canada,University of Toronto,2010,38418289,1679704.41
+Canada,University of Toronto,2011,38177014,1619636.72
+Canada,University of Toronto,2012,38314296,1658229.53
+Canada,University of Toronto,2013,37834612,1683494.39
+Canada,University of Toronto,2014,38170566,1630656.63
+Canada,University of Toronto,2015,38136131,1664846.57
+Canada,University of Toronto,2016,38630565,1633127.67
+Australia,University of Melbourne,2006,26047762,1597362.08
+Australia,University of Melbourne,2007,26207734,1601919.79
+Australia,University of Melbourne,2008,25707661,1634073.53
+Australia,University of Melbourne,2009,25779849,1621385.11
+Australia,University of Melbourne,2010,25622166,1641472.25
+Australia,University of Melbourne,2011,26025469,1602680.81
+Australia,University of Melbourne,2012,25840977,1583689.51
+Australia,University of Melbourne,2013,25865111,1624779.03
+Australia,University of Melbourne,2014,26005443,1606106.59
+Australia,University of Melbourne,2015,25652704,1640560.6
+Australia,University of Melbourne,2016,25702326,1614535.72
+Germany,LMU Munich,2006,83386619,4273306.55
+Germany,LMU Munich,2007,82673410,4158096.88
+Germany,LMU Munich,2008,83934442,4208524.82
+Germany,LMU Munich,2009,83750263,4326247.82
+Germany,LMU Munich,2010,83508467,4235144.97
+Germany,LMU Munich,2011,82796431,4219299.81
+Germany,LMU Munich,2012,83655250,4209397.79
+Germany,LMU Munich,2013,84226669,4237462.43
+Germany,LMU Munich,2014,84659295,4289153.81
+Germany,LMU Munich,2015,83148065,4138318.87
+Germany,LMU Munich,2016,83326830,4167361.08
+France,Sorbonne University,2006,68435608,2932984.53
+France,Sorbonne University,2007,67012406,3002410.63
+France,Sorbonne University,2008,66999561,3023973.1
+France,Sorbonne University,2009,67785047,2949793.28
+France,Sorbonne University,2010,66824950,2999474.01
+France,Sorbonne University,2011,68083714,2883930.81
+France,Sorbonne University,2012,67800391,3002342.91
+France,Sorbonne University,2013,68366193,2996433.33
+France,Sorbonne University,2014,66887310,2911301.55
+France,Sorbonne University,2015,68436013,2945732.62
+France,Sorbonne University,2016,68590789,2994451.66
