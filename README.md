@@ -2,19 +2,19 @@
 Capstone Project
 
 
-University Success Analysis Project
+
 
 Overview
 
 The University Success Analysis Project aims to analyze factors influencing student success in higher education using a data-driven approach. By leveraging data analytics tools and visualization techniques, this project provides insights that can help universities improve academic performance, retention rates, and overall institutional rankings.
 
-Data Source
+**Data Source
 
-The dataset was sourced from a GitHub repository.
+  The dataset was sourced from a GitHub repository.
 
-Available in CSV and SQL formats.
+  Available in CSV and SQL formats.
 
-Includes information on student performance, financial aid, attendance, and extracurricular activities.
+  Includes information on student performance, financial aid, attendance, and extracurricular activities.
 
 Process
 
