@@ -10,7 +10,7 @@ The University Success Analysis Project aims to analyze factors influencing stud
 
 **Data Source**
 
-  *The dataset was sourced from a GitHub repository.
+  The dataset was sourced from a GitHub repository.
 
   Available in CSV and SQL formats.
 
@@ -64,33 +64,33 @@ The University Success Analysis Project aims to analyze factors influencing stud
 
 **Tools Used**
 
-Excel (Data cleaning, EDA, and statistical analysis)
+   Excel (Data cleaning, EDA, and statistical analysis)
 
-Power BI (Data modeling, visualization, and dashboard creation)
+   Power BI (Data modeling, visualization, and dashboard creation)
 
-MySQL Workbench (Data storage, query execution, and result analysis)
+   MySQL Workbench (Data storage, query execution, and result analysis)
 
-GitHub (Dataset source and project documentation)
+   GitHub (Dataset source and project documentation)
 
-PowerPoint (Final presentation and summary of findings)
+   PowerPoint (Final presentation and summary of findings)
 
 **Key Takeaways**
 
-Regular student attendance positively correlates with academic performance.
+   Regular student attendance positively correlates with academic performance.
 
-Financial aid and scholarships significantly impact student retention.
+   Financial aid and scholarships significantly impact student retention.
 
-Extracurricular involvement contributes to better employability and leadership skills.
+   Extracurricular involvement contributes to better employability and leadership skills.
 
-Data-driven decision-making enhances university success strategies.
+   Data-driven decision-making enhances university success strategies.
 
 **Future Enhancements**
 
-Incorporate predictive analytics to forecast student success trends.
+   Incorporate predictive analytics to forecast student success trends.
 
-Expand the dataset to include more universities and student demographics.
+   Expand the dataset to include more universities and student demographics.
 
-Develop an automated dashboard for real-time student performance monitoring.
+   Develop an automated dashboard for real-time student performance monitoring.
 
 **How to Use This Project**
 
